@@ -1,7 +1,1 @@
-#TODO:
-1)(done)add new employee;
-2)(done)login 
 
-1)attendance
-2)geotagging
-3)se
